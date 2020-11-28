@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitConsoleApp", "AsyncAwaitConsoleApp\AsyncAwaitConsoleApp.csproj", "{90817CB4-18B9-4515-A0D8-C85C386409AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BA48997E-4AA3-4913-8DFD-286EE5B18896}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90817CB4-18B9-4515-A0D8-C85C386409AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90817CB4-18B9-4515-A0D8-C85C386409AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90817CB4-18B9-4515-A0D8-C85C386409AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90817CB4-18B9-4515-A0D8-C85C386409AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE81780D-FC81-4179-BB47-EADCBB322E9C}
+	EndGlobalSection
+EndGlobal
